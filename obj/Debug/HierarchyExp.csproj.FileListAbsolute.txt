@@ -1,0 +1,11 @@
+E:\playground\HierarchyExp\bin\Debug\HierarchyExp.exe.config
+E:\playground\HierarchyExp\bin\Debug\HierarchyExp.exe
+E:\playground\HierarchyExp\bin\Debug\HierarchyExp.pdb
+E:\playground\HierarchyExp\bin\Debug\EntityFramework.SqlServer.dll
+E:\playground\HierarchyExp\bin\Debug\EntityFramework.dll
+E:\playground\HierarchyExp\obj\Debug\HierarchyExp.csprojAssemblyReference.cache
+E:\playground\HierarchyExp\obj\Debug\HierarchyExp.csproj.CopyComplete
+E:\playground\HierarchyExp\obj\Debug\HierarchyExp.exe
+E:\playground\HierarchyExp\obj\Debug\HierarchyExp.pdb
+E:\playground\HierarchyExp\bin\Debug\Effort.dll
+E:\playground\HierarchyExp\bin\Debug\NMemory.dll

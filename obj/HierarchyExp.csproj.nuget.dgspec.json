@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\playground\\HierarchyExp\\HierarchyExp.csproj": {}
+  },
+  "projects": {
+    "E:\\playground\\HierarchyExp\\HierarchyExp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\playground\\HierarchyExp\\HierarchyExp.csproj",
+        "projectName": "HierarchyExp",
+        "projectPath": "E:\\playground\\HierarchyExp\\HierarchyExp.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "E:\\playground\\HierarchyExp\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\hp\\source\\repos\\Savii.EF.HierarhyID\\Savii.EF.HierarhyID\\bin\\Release": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Effort.EF6": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Effort.EF6.WithHierarchyId": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "NMemory": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "System.Runtime.Serialization.Primitives": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
